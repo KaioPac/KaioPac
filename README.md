@@ -10,11 +10,11 @@ public class PedraPapelTesoura {
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("_JoKenPô_");
 		System.out.println("");
-		System.out.println("1.Pedra");
-		System.out.println("2.Papel");
-		System.out.println("3.Tesoura");
-		System.out.println("4.lagarto");
-		System.out.println("5.Spock");
+		System.out.println("1. Pedra");
+		System.out.println("2. Papel");
+		System.out.println("3. Tesoura");
+		System.out.println("4. Lagarto");
+		System.out.println("5. Spock");
 		System.out.println("Digite a opção desejada");
 
 		jogador = teclado.nextInt();
